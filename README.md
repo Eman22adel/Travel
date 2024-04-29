@@ -18,14 +18,10 @@ Welcome to the **Travel** website project. This website is designed to help user
 3. **Available Trips**: Users can view all available trips based on their search criteria.
 4. **Contact Supervisors**: Contact numbers for supervisors are provided for any assistance or queries.
 
-## Setup
+## Deployment
 
-To run this project, you will need to have a basic understanding of HTML, CSS, JS and Bootstrap.
+https://eman22adel.github.io/Travel/
 
 ## Contributions
 
 We welcome contributions from all developers. Please read the CONTRIBUTING.md file for our coding conventions and guidelines for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE.md file for details.
